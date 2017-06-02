@@ -1,4 +1,4 @@
-# nak.studio
+# nak.STUDIO
 
 ## CSS craftmanship. Handmade code with love.
 
