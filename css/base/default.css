@@ -1,0 +1,10 @@
+/*---------------default---------------*/
+:root{
+    font-size: 16px;
+}
+body {
+    color: var(--text-color);
+
+    font-size: 1em; 
+
+}
