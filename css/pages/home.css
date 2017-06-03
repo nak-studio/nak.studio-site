@@ -9,6 +9,8 @@
     position: absolute;
     bottom:8vh;
     left: 35vw;
-
+@media all and(max-width: 500px){
+  left: 11vw;
+}
   }
 }
