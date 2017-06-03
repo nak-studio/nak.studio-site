@@ -6,6 +6,9 @@
   height: 100%;
   .logo{
     width: 300px;
+    position: absolute;
+    bottom:8vh;
+    left: 35vw;
 
   }
 }
