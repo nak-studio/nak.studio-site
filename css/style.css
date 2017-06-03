@@ -68,3 +68,7 @@
 
 /*===============pages===============*/
 @import "pages/home";
+
+
+/*===============vendors===============*/
+@import "vendors/nak-icon";
