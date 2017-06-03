@@ -3,9 +3,9 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  /*height: 100vh;*/
   .logo{
-    width: 300px;   
+    width: 300px;
 
   }
 }
