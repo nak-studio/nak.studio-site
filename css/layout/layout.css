@@ -69,3 +69,8 @@
     display: flex;
     flex-direction: column;
 }
+.nak-page-view{
+  height: 100vh;
+  border-bottom: 1px solid #ccc;
+
+}
