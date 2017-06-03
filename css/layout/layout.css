@@ -72,5 +72,17 @@
 .nak-page-view{
   height: 100vh;
   border-bottom: 1px solid #ccc;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 
+}
+.nak-page-header{
+  padding: 10px;
+  display: flex;
+  width: 100%;
+  [class^="nak-icon-"]{
+    margin-left: auto;
+    cursor: pointer;
+  }
 }
