@@ -1,6 +1,6 @@
 # nak.STUDIO
 
-## CSS craftmanship. Handmade code with love.
+## CSS craftsmanship. Handmade code with love.
 
 ### Designing to feel, teaching to learn.
 

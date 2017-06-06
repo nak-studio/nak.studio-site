@@ -65,7 +65,7 @@
     /*@apply --row--centered;*/
 }
 
-.nak-display--column {
+.nak-display--column { 
     display: flex;
     flex-direction: column;
 }
