@@ -2,15 +2,15 @@
 
 @font-face {
     font-family: 'Lato', sans-serif;
-    src: url("../fonts/Lato-Regular.ttf");
+    src: url("../assets/fonts/Lato-Regular.ttf");
 }
 
 @font-face {
     font-family:'Lato-light', sans-serif;
-    src: url("../fonts/Lato-Light.ttf");
+    src: url("../assets/fonts/Lato-Light.ttf");
 }
 
 @font-face {
-    font-family: 'Lato-black';
-    src: url("../fonts/Lato-Black.ttf");
+    font-family: 'Lato-black', sans-serif;
+    src: url("../assets/fonts/Lato-Black.ttf");
 }

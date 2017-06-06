@@ -78,29 +78,3 @@
 
 
 }
-.nak-page-header{
-  padding: 10px;
-  display: flex;
-  width: 100%;
-  &.is-sticky{
-    position: fixed;
-    top: 0;left: 0;
-    z-index: 3;
-  }
-  .home &{
-    position: fixed;
-    right: 10px;
-    top: 10px;
-    z-index: 3;
-
-  }
-  [class^="nak-icon-"]{
-    margin-left: auto;
-    cursor: pointer;
-    
-    .home &{
-      color:white;
-
-    }
-  }
-}

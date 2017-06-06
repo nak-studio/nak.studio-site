@@ -3,6 +3,7 @@
 :root {
     /*---------------fonts---------------*/
     --base-font: 'Lato', sans-serif;
+    --base-font--light: 'Lato-light', sans-serif;
     --input-font: 'MyriadPro', sans-serif;
     --code-font: 'MyriadPro', sans-serif;
     /*---------------text---------------*/

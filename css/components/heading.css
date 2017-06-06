@@ -1,7 +1,7 @@
 /*----------------Custom variables---------------------*/
 
 :root {
-    --page-title__color: var(--color-opaque);
+    --page-title__color: var(--color-black);
     --page-title__font-size: 3em;
     --page-title__background:  var(--color-wildsand);
     --section-title__color: var(--color-azure);
@@ -24,7 +24,7 @@
 
 @define-mixin nak-page-title $color:var(--page-title__color), $font-size:var(--page-title__font-size) {
     color: var(--page-title__color);
-    font-weight: bold;
+    font-family: var(--base-font--light);
     font-size: var(--page-title__font-size);
 
     a {
@@ -61,6 +61,10 @@
 
 .nak-page-title {
     @mixin nak-page-title;
+}
+.nak-page-subtitle {
+    color:var(--color-opaque);
+    font-size: 1.3em;
 }
 
 .nak-section-title {
