@@ -31,7 +31,7 @@
     position: fixed;
     right: 10px;
     top: 10px;
-    z-index: 3;
+    z-index: 6;
 
   }
   [class^="nak-icon-"]{
@@ -39,7 +39,7 @@
     cursor: pointer;
 
     .home &{
-      color:white;
+      /*color:white;*/
 
     }
   }

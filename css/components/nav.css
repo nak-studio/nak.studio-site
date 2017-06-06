@@ -32,3 +32,22 @@
       color:var(--color-theme);
     }
 }
+.nak-main-menu{
+  display:flex;
+  align-items: center;
+  position: fixed;
+  width: 50vw;
+  height: 100vh;
+  background: white;
+  right: 0;
+  top: 0;
+  padding: 40px;
+  z-index: 4;
+  a{
+    font-size: 2em;
+    color:var(--color-black);
+    text-decoration: none;
+    margin: 10px 0;
+    display: block;
+  }
+}

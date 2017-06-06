@@ -3,7 +3,7 @@
     border-left: none;
     position: relative;
 
-} 
+}
 .no-video .video-container video,
 .touch .video-container video {
     display: none;
@@ -26,12 +26,12 @@
     bottom: 0;
     position: absolute;
 }
-.video-container .filter {
+/*.video-container .filter {
     z-index: 100;
     position: absolute;
     background: rgba(0, 0, 0, 0.4);
     width: 100%;
-}
+}*/
 .video-container video {
     position: absolute;
     z-index: 0;
