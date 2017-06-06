@@ -1,7 +1,7 @@
 /*---------------layout---------------*/
 @import "../variables/required-utils";
 
-
+ 
 .nak-page-wrapper {
     display: flex;
     flex-direction: column;
@@ -76,13 +76,25 @@
   flex-direction: column;
   justify-content: space-between;
 
+
 }
 .nak-page-header{
   padding: 10px;
   display: flex;
   width: 100%;
+  .home &{
+    position: fixed;
+    right: 10px;
+    top: 10px;
+    z-index: 3;
+
+  }
   [class^="nak-icon-"]{
     margin-left: auto;
     cursor: pointer;
+    .home &{
+      color:white;
+
+    }
   }
 }
